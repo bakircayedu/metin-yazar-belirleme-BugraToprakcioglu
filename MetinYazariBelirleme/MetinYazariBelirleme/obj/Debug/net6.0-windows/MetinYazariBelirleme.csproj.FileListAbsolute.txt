@@ -1,0 +1,17 @@
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\net6.0-windows\MetinYazariBelirleme.exe
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\net6.0-windows\MetinYazariBelirleme.deps.json
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\net6.0-windows\MetinYazariBelirleme.runtimeconfig.json
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\net6.0-windows\MetinYazariBelirleme.dll
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\net6.0-windows\MetinYazariBelirleme.pdb
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.csproj.AssemblyReference.cache
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.Form1.resources
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.csproj.GenerateResource.cache
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.AssemblyInfoInputs.cache
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.AssemblyInfo.cs
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.csproj.CoreCompileInputs.cache
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.dll
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\refint\MetinYazariBelirleme.dll
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.pdb
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\MetinYazariBelirleme.genruntimeconfig.cache
+C:\Users\Bugra\source\repos\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\net6.0-windows\ref\MetinYazariBelirleme.dll
